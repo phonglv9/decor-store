@@ -1,0 +1,1 @@
+export const urlImage = 'https://product.hstatic.net/200000065946/product';
